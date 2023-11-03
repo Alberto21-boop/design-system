@@ -23,3 +23,7 @@ Uma vez feito isso, rode o seguinte comando
 
 npx tsc --init
 Para criarmos o tsconfig
+
+E wem seguida iremos adicionar o pacote tsup para renderização
+
+npm i tsup -D
